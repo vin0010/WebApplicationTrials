@@ -1,7 +1,7 @@
 
 This respository contains my learning history and exercises in learning following technologies.
 
-Technologies
+Technologies 
 	Git
 	Java 8
 	jersey framework
